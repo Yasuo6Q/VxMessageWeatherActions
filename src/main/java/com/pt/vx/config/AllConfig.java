@@ -78,7 +78,7 @@ public class AllConfig {
         //new BirthDay()里面代表[年]、[月]、[日]、[是否是农历(true为农历、false为公历)]、[是否统计天数(true为统计，false为倒计时)]、[倒计时到0天提示信息(如果类型为统计可以不填)]
         userList.add(getUser(
                 "obHld5mKHGnrCt3oeKKuQmslX928", //扫码关注你的测试号以后，测试平台会出现TA的微信号
-                "qRSzDWbZp5OZT4sY0mEUUfsRzXV6mC5neZwoYcnYaY8	", //要给这个人发送的模板ID
+                "qRSzDWbZp5OZT4sY0mEUUfsRzXV6mC5neZwoYcnYaY8", //要给这个人发送的模板ID
                 "宝贝", //咋称呼这个人
                 "河北省廊坊市", //这个人的详细地址
                 "廊坊", //这个人在的城市
