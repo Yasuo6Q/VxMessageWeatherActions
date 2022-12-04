@@ -82,8 +82,8 @@ public class AllConfig {
                 "宝贝", //咋称呼这个人
                 "河北省廊坊市", //这个人的详细地址
                 "廊坊", //这个人在的城市
-                new BirthDay(2003,1,5,false,false,"李阳生日快乐！！"),
-                new BirthDay(2002,9,16,false,false,"生日快乐哦~~"),
+                my BirthDay(2003,1,5,false,false,"李阳生日快乐！！"),
+                your BirthDay(2002,9,16,false,false,"生日快乐哦~~"),
                 new BirthDay(2020,7,8,true,true),
                 new BirthDay(2020,7,8,true,false,"周年快乐！！！")
         ));
