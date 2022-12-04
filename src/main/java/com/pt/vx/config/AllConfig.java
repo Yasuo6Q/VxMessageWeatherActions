@@ -84,6 +84,8 @@ public class AllConfig {
                 "廊坊", //这个人在的城市
                 new BirthDay(2003,1,5,false,false,"李阳生日快乐！！"),
                 new BirthDay(2002,9,16,false,false,"生日快乐哦~~"),
+                new BirthDay(2020,7,8,true,true),
+                new BirthDay(2020,7,8,true,false,"周年快乐！！！")
         ));
 
         userList.add(getUser(
