@@ -77,7 +77,7 @@ public class AllConfig {
         //  注意：每个用户信息的最后一项不需要加逗号！！！
         //new BirthDay()里面代表[年]、[月]、[日]、[是否是农历(true为农历、false为公历)]、[是否统计天数(true为统计，false为倒计时)]、[倒计时到0天提示信息(如果类型为统计可以不填)]
         userList.add(getUser(
-                "obHld5mKHGnrCt3oeKKuQmslX928", //扫码关注你的测试号以后，测试平台会出现TA的微信号
+                "obHld5miHxZxZO0i0m8-JlT2IE7A", //扫码关注你的测试号以后，测试平台会出现TA的微信号
                 "i-WFBJvuvwUYjttg1epeNV5JlYjDl0km2p2pzAwYADQ", //要给这个人发送的模板ID
                 "宝贝", //咋称呼这个人
                 "河北省廊坊市", //这个人的详细地址
