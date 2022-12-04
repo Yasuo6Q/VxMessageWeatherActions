@@ -23,7 +23,7 @@ import java.util.List;
  */
 public class AllConfig {
     public static final String VxAppId = "wx794a99bb9163b32e";
-    public static final String VxAppSecret = "a91b6b861bc2cb3634ce8583f31d5ca6";
+    public static final String VxAppSecret = "0b02af49e626e0b6f913ddd22164373e";
     public static final String WeatherKey = "29185095319f805c7c2a1506dc84ebb5";
     public static final String WeatherKey_HeFeng = "和风天气KEY";
 
