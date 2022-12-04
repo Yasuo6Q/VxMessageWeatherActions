@@ -32,7 +32,7 @@ public class AllConfig {
     public static final boolean OPEN_MESSAGE_SPLIT = true; //是否开启消息分裂（大于100字的消息会被分裂成多个,如tianGou超过了一百个字的话：{{tianGou.DATA}}{{tianGou1.DATA}}））
     public static final boolean OPEN_WEATHER_NOW = false; //切换天气类型为实时（false为天气预报，true为实时天气）
     public static final boolean OPEN_HF_WEATHER = false; //切换天气源为和风天气（目前只支持天气预报）
-    public static final boolean OPEN_MASTER_MODEL = true; //是否开启主人模式。开启后，后面的用户只会收到第一个用户的内容。
+    public static final boolean OPEN_MASTER_MODEL = false; //是否开启主人模式。开启后，后面的用户只会收到第一个用户的内容。
     public static final boolean OPEN_RANDOM_COLOR = true; //是否开启随机消息颜色
     public static final String[] random_colors = {"#FFCCCC", "#33A1C9", "#DC143C","#FF0000","#6B8E23","#236B8E","#FF7F00"}; //参与随机的颜色,颜色为颜色HEX码（不知道可以百度）
 
@@ -89,7 +89,7 @@ public class AllConfig {
         ));
 
         userList.add(getUser(
-                "obHld5vLWxXbWDrQwWkrkID2hqvQ",//扫码关注你的测试号以后，测试平台会出现TA的微信号
+                "x",//扫码关注你的测试号以后，测试平台会出现TA的微信号
                 "微信消息模板ID",//要给这个人发送的模板ID
                 "这个人的称呼",//咋称呼这个人
                 "江苏省南京市玄武区",//这个人的详细地址
